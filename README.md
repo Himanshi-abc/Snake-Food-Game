@@ -1,5 +1,5 @@
 # Snake-Food-Game
-Snake-Food is a game in which a snake moves around inside a grid and as it eats food ball it grows longer and score points .
+Snake-Food is a game in which a snake moves around inside a grid and as it eats food ball it grows longer and score points .It can also be played on phone.
 
 The objective of this game is to keep on eating food balls and scoring high without hitting its own body and the edges of the board ,otherwise it's a game over
 
